@@ -1,8 +1,8 @@
-# Curso-b-sico-de-Laravel-6-CRUD
+# Curso-basico-de-Laravel-6-CRUD y actualizado a laravel 7
 
-Bienvenidos al proyecto "Curso-basico-de-Laravel-6-CRUD".
+Bienvenidos al proyecto "Curso-basico-de-Laravel-6-CRUD actualizado laravel7".
 
-Este es un proyecto para aprender a crear un crud Laravel 6.
+Este es un proyecto para aprender a crear un crud Laravel 6 y luego sepas como actualizar este proyecto a laravel 7
 
 Para poder utilizar este proyecto, debes tener los siguientes requisitos:
 
